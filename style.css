@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: hsl(0, 1%, 17%);
+  }
+
+  /* Top left text 
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+*/
+  .maintitle{
+    font-family: cursive;
+    
+
+  }
+
+  .backcolor{
+    background-color: rgb(235, 224, 217);
+  }
+  
